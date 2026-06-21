@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=58D8C8&center=true&vCenter=true&multiline=false&width=600&lines=EE+Student+%40+NIT+Silchar+%F0%9F%8E%93;Applied+ML+%2B+Edge+AI+Engineer+%F0%9F%9A%80;Signal+Processing+%E2%86%92+Time+Series+%E2%86%92+Disaster+AI;DSA+Grind+%7C+Striver+A2Z+in+C%2B%2B+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn)]([https://linkedin.com/in/shivam9421](https://www.linkedin.com/in/shivam-kumar-singh-346247225/)) [![GitHub Views](https://komarev.com/ghpvc/?username=shivam9421&color=58D8C8&style=flat-square&label=views)](https://github.com/shivam9421) [![SER Live](https://img.shields.io/badge/-SER%20Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://shivam9421-speech-emotion-recognition-app-fshn6w.streamlit.app/) [![GitHub](https://img.shields.io/badge/-shivam9421-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivam9421)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn)](https://linkedin.com/in/shivam-kumar-singh-346247225)
+[![SER Live](https://img.shields.io/badge/-SER%20Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://shivam9421-speech-emotion-recognition-app-fshn6w.streamlit.app/) 
+[![GitHub](https://img.shields.io/badge/-shivam9421-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivam9421)
 
 ---
 
