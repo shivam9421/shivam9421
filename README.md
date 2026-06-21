@@ -77,6 +77,6 @@ const shivam = {
 
 ---
 
-*"Turn the signal into impact — one model at a time."*
+*"Turn the signal into impact — one model at a time."*  
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d3b4f,100:0d1117&height=80&section=footer)](https://github.com/shivam9421)
