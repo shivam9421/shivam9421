@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1f2e,100:0d3b4f&height=150&section=header&text=Shivam%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Edge%20AI%20%7C%20Applied%20ML%20%7C%20Signal%20Processing&descSize=15&descColor=58d8c8&descAlignY=75&animation=twinkling)](https://github.com/shivam9421)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1f2e,100:0d3b4f&height=150&section=header&text=Shivam%20Kumar%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Edge%20AI%20%7C%20Applied%20ML%20%7C%20Signal%20Processing&descSize=15&descColor=58d8c8&descAlignY=75&animation=twinkling)](https://github.com/shivam9421)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=58D8C8&center=true&vCenter=true&multiline=false&width=600&lines=EE+Student+%40+NIT+Silchar+%F0%9F%8E%93;Applied+ML+%2B+Edge+AI+Engineer+%F0%9F%9A%80;Signal+Processing+%E2%86%92+Time+Series+%E2%86%92+Disaster+AI;DSA+Grind+%7C+Striver+A2Z+in+C%2B%2B+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
