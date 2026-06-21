@@ -48,12 +48,6 @@ const shivam = {
 ---
 
 ## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam9421&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam9421&layout=compact&theme=tokyo-night&hide_border=true" height="160"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shivam9421&theme=tokyo-night&hide_border=true"/>
 </p>
