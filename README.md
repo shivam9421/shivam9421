@@ -6,7 +6,7 @@
 
 ---
 
-```js
+js
 const shivam = {
   location:   "NIT Silchar, Assam 🇮🇳",
   currently:  "Applied ML + Edge AI Engineer in the making 🔬",
